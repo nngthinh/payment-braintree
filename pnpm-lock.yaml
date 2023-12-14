@@ -15,7 +15,7 @@ dependencies:
     specifier: ^5.15.0
     version: 5.15.0(@emotion/react@11.11.1)(@emotion/styled@11.11.0)(@types/react@18.2.43)(react-dom@18.2.0)(react@18.2.0)
   '@types/braintree-web':
-    specifier: ^3.96.10
+    specifier: 3.96.10
     version: 3.96.10
   '@types/node':
     specifier: ^20.10.4
